@@ -1,0 +1,56 @@
+﻿  Source.cpp
+c:\users\user\desktop\курсовая\марио\mario\enemy.hpp(16): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\курсовая\марио\mario\enemy.hpp(17): warning C4305: =: усечение из "double" в "float"
+c:\users\user\desktop\курсовая\марио\mario\enemy.hpp(25): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\desktop\курсовая\марио\mario\enemy.hpp(41): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\курсовая\марио\mario\enemy.hpp(42): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\курсовая\марио\mario\enemy.hpp(48): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\курсовая\марио\mario\player.hpp(16): warning C4305: =: усечение из "double" в "float"
+c:\users\user\desktop\курсовая\марио\mario\player.hpp(25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\user\desktop\курсовая\марио\mario\player.hpp(32): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\desktop\курсовая\марио\mario\player.hpp(46): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\курсовая\марио\mario\player.hpp(47): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\курсовая\марио\mario\player.hpp(56): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\курсовая\марио\mario\player.hpp(60): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\курсовая\марио\mario\source.cpp(32): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\user\desktop\курсовая\марио\mario\source.cpp(101): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\user\desktop\курсовая\марио\mario\source.cpp(117): warning C4305: =: усечение из "double" в "float"
+c:\users\user\desktop\курсовая\марио\mario\source.cpp(119): warning C4305: =: усечение из "double" в "float"
+c:\users\user\desktop\курсовая\марио\mario\source.cpp(124): warning C4305: =: усечение из "double" в "float"
+c:\users\user\desktop\курсовая\марио\mario\source.cpp(137): warning C4305: =: усечение из "double" в "float"
+  Создание кода
+  All 80 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Mario.vcxproj -> C:\Users\user\Desktop\курсовая\Марио\Release\Mario.exe

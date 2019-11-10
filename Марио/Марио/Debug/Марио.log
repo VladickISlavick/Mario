@@ -1,0 +1,9 @@
+﻿main.obj : error LNK2005: "float offsetX" (?offsetX@@3MA) уже определен в Enemy.obj
+main.obj : error LNK2005: "float offsetY" (?offsetY@@3MA) уже определен в Enemy.obj
+main.obj : error LNK2005: "class sf::String * MenuMap" (?MenuMap@@3PAVString@sf@@A) уже определен в Enemy.obj
+main.obj : error LNK2005: "class sf::String * TileMap" (?TileMap@@3PAVString@sf@@A) уже определен в Enemy.obj
+Player.obj : error LNK2005: "float offsetX" (?offsetX@@3MA) уже определен в Enemy.obj
+Player.obj : error LNK2005: "float offsetY" (?offsetY@@3MA) уже определен в Enemy.obj
+Player.obj : error LNK2005: "class sf::String * MenuMap" (?MenuMap@@3PAVString@sf@@A) уже определен в Enemy.obj
+Player.obj : error LNK2005: "class sf::String * TileMap" (?TileMap@@3PAVString@sf@@A) уже определен в Enemy.obj
+C:\Users\user\Desktop\курсовая\Марио\Debug\Марио.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
